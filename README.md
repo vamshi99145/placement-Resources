@@ -1,4 +1,6 @@
-# placement-Resources
+
+All popular and trending topics of placements stuff is posted here inlcuding Linkedin influncencers and job opportunities they where share
+
 ![Screenshot (906)](https://user-images.githubusercontent.com/77665988/224279419-8eb35335-9ee2-4de1-9b6a-ca9bf01dda52.png)
 ![Screenshot (907)](https://user-images.githubusercontent.com/77665988/224279433-3c084d20-30cf-4508-bc37-055746766033.png)
 ![Screenshot (908)](https://user-images.githubusercontent.com/77665988/224279441-8f972ad8-bcad-41fb-a977-693ad7ffc38a.png)
